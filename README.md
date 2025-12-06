@@ -1,4 +1,4 @@
-# Global Chess Challenge - Starter Kit
+# Global Chess Challenge - Starter Kit 4 Cool Smart People
 
 [![banner image](https://images.aicrowd.com/raw_images/challenges/social_media_image_file/1166/a4a6aaf8ab15af56cc81.png)](https://www.aicrowd.com/challenges/global-chess-challenge-2025)
 
